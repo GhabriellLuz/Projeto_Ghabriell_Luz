@@ -11,6 +11,10 @@ public class D {
     D2 = d2;
     return D2 ? "Verdadeiro" : "Falso";
   }
+
+  public void MD3() {
+    System.out.print("MD3");
+  }
 }
 
 // Ghabriell Luz
